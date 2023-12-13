@@ -136,12 +136,18 @@ https://docs.nativescript.org/setup/linux#setting-up-linux-for-android.
 
 See "NativeScript Windows Setup - Step by Step" at https://www.youtube.com/watch?v=3O-rsAFw8J8 for preparing for Android.
 
+Type ```CTRL + C``` to stop the Android emulator.
+
 Let's for now continue with **iOS**.
 
 Run the following command to start the iOS emulator:
 
+**NOTE**: NativeScript uses **XCode** under the hood to build and run iOS Apps. And XCode is only available on MacOS. Therefore you can only run iOS Apps on MacOS.
+
 ```
 $ tns run ios
 ```
+ 
+
 
 MORE ...

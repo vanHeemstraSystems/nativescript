@@ -8,7 +8,7 @@ Start your development as follows, from within containers/app/webapp/:
 $ ns preview
 ```
 
-You will be presented with a QR code (in the GitPod Terminal window), which you need to scan with your iOS device (iPhone or iPad, on which your previously installed the NativeScript preview App from the App Store).
+You will be presented with a QR code (in the GitPod Terminal window or the sidepanel), which you need to scan with your iOS device (iPhone or iPad, on which your previously installed the NativeScript preview App from the App Store).
 
 You should now see the NativeScipt app on your iPhone or iPad, ready to monitor whilst developing further, as it will be synced.
 

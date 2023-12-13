@@ -8,3 +8,10 @@ Run the following command from containers/app directory:
 $ tns create HelloWorld --template nativescript-template-tutorial
 ```
 
+If you receive an error like "No matching version found for nativescript-template-tutorial" just leave out the template option:
+
+```
+$ tns create HelloWorld
+```
+
+

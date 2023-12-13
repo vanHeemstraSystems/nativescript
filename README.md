@@ -7,6 +7,8 @@ Based on "NativeScript Docs" at https://docs.nativescript.org/
 
 Based on "NativeScript" at https://nativescript.org/
 
+Based on "NativeScript for Visual Studio Code" at https://www.youtube.com/watch?v=KQHJewS3tqA
+
 ## 100 - Introduction
 
 ### What is NativeScript?​

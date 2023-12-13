@@ -68,5 +68,12 @@ At any time you can run the ```tns --help``` command to open the NativeScript CL
 
 In NativeScript CLI you run the ```tns run``` command to run your apps on iOS or Android.
 
+Let's start with **Android**.
+
+Run the following command to start the Android emulator:
+
+```
+$ tns run android
+```
 
 MORE ...

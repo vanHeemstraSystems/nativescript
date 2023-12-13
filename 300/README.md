@@ -66,5 +66,7 @@ At any time you can run the ```tns --help``` command to open the NativeScript CL
 
 ## Running Apps
 
+In NativeScript CLI you run the ```tns run``` command to run your apps on iOS or Android.
+
 
 MORE ...

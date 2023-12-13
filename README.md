@@ -13,6 +13,10 @@ Based on "NativeScript Tutorial for Beginners - Build iOS, Android and Web Apps 
 
 Based on "How to Use NativeScript App Templates" at https://www.youtube.com/watch?v=4yIfUUbnSHI
 
+Based on "Smooth NativeScript Environment Setup on Mac" at https://www.youtube.com/watch?v=AT2GEwdJD0k
+
+Based on "NativeScript Windows Setup - Step by Step" at https://www.youtube.com/watch?v=3O-rsAFw8J8
+
 ## 100 - Introduction
 
 ### What is NativeScript?​

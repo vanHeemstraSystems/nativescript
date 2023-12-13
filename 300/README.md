@@ -64,6 +64,14 @@ $ cd HelloWorld
 
 At any time you can run the ```tns --help``` command to open the NativeScript CLI documentation in your terminal.
 
+Also, check the version of your NativeScript CLI with:
+
+```
+tns --version
+8.6.1
+✔ Up to date.
+```
+
 ## Running Apps
 
 In NativeScript CLI you run the ```tns run``` command to run your apps on iOS or Android.

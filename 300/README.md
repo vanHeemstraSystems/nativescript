@@ -134,4 +134,14 @@ Verify that your environment is configured according to the system requirements 
 https://docs.nativescript.org/setup/linux#setting-up-linux-for-android.
 ```
 
+See "NativeScript Windows Setup - Step by Step" at https://www.youtube.com/watch?v=3O-rsAFw8J8 for preparing for Android.
+
+Let's for now continue with **iOS**.
+
+Run the following command to start the iOS emulator:
+
+```
+$ tns run ios
+```
+
 MORE ...

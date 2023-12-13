@@ -76,4 +76,54 @@ Run the following command to start the Android emulator:
 $ tns run android
 ```
 
+You may be prompted as:
+
+```
+✔ Javac is installed and is configured properly.
+✔ The Java Development Kit (JDK) is installed and is configured properly.
+✔ Local builds for iOS can be executed only on a macOS system. To build for iOS on a different operating system, you can use the NativeScript cloud infrastructure.
+✖ The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android. 
+ To be able to perform Android build-related operations, set the `ANDROID_HOME` variable to point to the root of your Android SDK installation directory. 
+
+✖ WARNING: adb from the Android SDK is not installed or is not configured properly.  
+ For Android-related operations, the NativeScript CLI will use a built-in version of adb.
+To avoid possible issues with the native Android emulator, Genymotion or connected
+Android devices, verify that you have installed the latest Android SDK and
+its dependencies as described in http://developer.android.com/sdk/index.html#Requirements 
+
+✖ WARNING: The Android SDK is not installed or is not configured properly. 
+ You will not be able to run your apps in the native emulator. To be able to run apps
+in the native Android emulator, verify that you have installed the latest Android SDK 
+and its dependencies as described in http://developer.android.com/sdk/index.html#Requirements 
+
+✖ Cannot find a compatible Android SDK for compilation.
+To be able to build for Android with your current android runtime, install one of the following supported Android SDK targets:
+  android-17
+  android-18
+  android-19
+  android-20
+  android-21
+  android-22
+  android-23
+  android-24
+  android-25
+  android-26
+  android-27
+  android-28
+  android-29
+  android-30
+  android-31
+  android-32
+  android-33
+Supported targets vary based on what android runtime you have installed. Currently your app uses @nativescript/android null 
+ Run `$ sdkmanager` to manage your Android SDK versions. 
+
+✖ No compatible version of the Android SDK Build-tools are installed on your system. You can install any version in the following range: '>=23 <=33'. 
+ Install the required build-tools through Android Studio. In case you already have them installed, make sure the `ANDROID_HOME` environment variable is set correctly. 
+
+Your environment is not configured properly and you will not be able to execute local builds.
+Verify that your environment is configured according to the system requirements described at
+https://docs.nativescript.org/setup/linux#setting-up-linux-for-android.
+```
+
 MORE ...

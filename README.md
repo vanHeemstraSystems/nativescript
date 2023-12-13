@@ -11,6 +11,8 @@ Based on "NativeScript for Visual Studio Code" at https://www.youtube.com/watch?
 
 Based on "NativeScript Tutorial for Beginners - Build iOS, Android and Web Apps with NativeScript" at https://www.youtube.com/watch?v=8Q8OtgL3Fuo
 
+Based on "How to Use NativeScript App Templates" at https://www.youtube.com/watch?v=4yIfUUbnSHI
+
 ## 100 - Introduction
 
 ### What is NativeScript?​

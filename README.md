@@ -9,6 +9,8 @@ Based on "NativeScript" at https://nativescript.org/
 
 Based on "NativeScript for Visual Studio Code" at https://www.youtube.com/watch?v=KQHJewS3tqA
 
+Based on "NativeScript Tutorial for Beginners - Build iOS, Android and Web Apps with NativeScript" at https://www.youtube.com/watch?v=8Q8OtgL3Fuo
+
 ## 100 - Introduction
 
 ### What is NativeScript?​

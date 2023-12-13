@@ -2,6 +2,8 @@
 
 Based on "NativeScript Tutorial for Beginners - Build iOS, Android and Web Apps with NativeScript" at https://www.youtube.com/watch?v=8Q8OtgL3Fuo
 
+## Create a new App
+
 Run the following command from containers/app directory:
 
 ```
@@ -61,6 +63,8 @@ $ cd HelloWorld
 ```
 
 At any time you can run the ```tns --help``` command to open the NativeScript CLI documentation in your terminal.
+
+## Running Apps
 
 
 MORE ...

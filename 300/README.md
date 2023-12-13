@@ -60,4 +60,7 @@ Go into the new project directory:
 $ cd HelloWorld
 ```
 
+At any time you can run the ```tns help``` command to open the NativeScript CLI documentation in your browser.
+
+
 MORE ...

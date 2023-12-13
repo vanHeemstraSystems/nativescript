@@ -54,3 +54,10 @@ Debug the project with Chrome DevTools:
 For more options consult the docs or run ns --help
 ```
 
+Go into the new project directory:
+
+```
+$ cd HelloWorld
+```
+
+MORE ...

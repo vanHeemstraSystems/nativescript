@@ -17,6 +17,8 @@ Based on "Smooth NativeScript Environment Setup on Mac" at https://www.youtube.c
 
 Based on "NativeScript Windows Setup - Step by Step" at https://www.youtube.com/watch?v=3O-rsAFw8J8
 
+Based on "Advanced Angular seed project" at https://github.com/NathanWalker/angular-seed-advanced
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)

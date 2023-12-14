@@ -74,14 +74,14 @@ tns --version
 
 ## Running Apps
 
-In NativeScript CLI you run the ```tns run``` command to run your apps on iOS or Android.
+In NativeScript CLI you run the ```ns run``` command to run your apps on iOS or Android. **NOTE**: In older versions of NativeScript the command was **tns**, nowadays it is **ns**, whilst **tns** is still supported.
 
 Let's start with **Android**.
 
 Run the following command to start the Android emulator:
 
 ```
-$ tns run android
+$ ns run android
 ```
 
 You may be prompted as:
@@ -145,7 +145,7 @@ Run the following command to start the iOS emulator:
 **NOTE**: NativeScript uses **XCode** under the hood to build and run iOS Apps. And XCode is only available on MacOS. Therefore you can only run iOS Apps on MacOS.
 
 ```
-$ tns run ios
+$ ns run ios
 ```
  
 If above command is run on a platform other than iOS (so not on a Mac), you will be prompted as follows:
@@ -154,6 +154,15 @@ If above command is run on a platform other than iOS (so not on a Mac), you will
 Applications for platform iOS can not be built on this OS
 ```
 
+If instead you want to make sure of an emulator to develop this application further, you can continue as follows:
 
+
+```
+$ ns preview
+```
+
+You will be presented with a QR code (in the GitPod Terminal window or the sidepanel), which you need to scan with your iOS device (iPhone or iPad, on which your previously installed the NativeScript preview App from the App Store).
+
+You should now see the NativeScipt app on your iPhone or iPad, ready to monitor whilst developing further, as it will be synced.
 
 MORE ...

@@ -148,6 +148,12 @@ Run the following command to start the iOS emulator:
 $ tns run ios
 ```
  
+If above command is run on a platform other than iOS (so not on a Mac), you will be prompted as follows:
+
+```
+Applications for platform iOS can not be built on this OS
+```
+
 
 
 MORE ...
